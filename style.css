@@ -10,5 +10,7 @@ h1{color:gray;}
 #calculator {
   padding: 1em 3em;
 }
-
+.highlight-yellow{
+  background: yellow;
+}
 

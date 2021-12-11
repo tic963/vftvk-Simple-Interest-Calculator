@@ -1,13 +1,7 @@
 
 //update principal value
 let principalInput = document.getElementById("principal");
-let validatePrincipal = () => {
-    if (!(principalInput.value > 0) || isNaN(principalInput.value) ){
-        alert(`Please enter a positive number`);
-    };
-    // principalInput.focus();
-    
-}
+
 
 // let pricipalText = document.getElementById("principalTest");
 // let updateRanchRateValue1 = () => {
